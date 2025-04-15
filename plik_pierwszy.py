@@ -1,2 +1,2 @@
-print('sława')
+print('lol')
 
